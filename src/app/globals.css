@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-suzuki-blue: #003145;
+  --color-suzuki-blue-light: #004a6b;
+  --color-suzuki-red: #d60d3a;
+  --color-suzuki-red-dark: #b80a31;
+  --color-suzuki-teal: #00a599;
+  --color-suzuki-teal-dark: #008a80;
+  --color-whatsapp: #25D366;
+  --color-whatsapp-dark: #1da851;
+  --color-surface: #f5f5f5;
+  --color-card: #ffffff;
+  --color-text-primary: #111111;
+  --color-text-muted: #555555;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  background: var(--color-surface);
+  color: var(--color-text-primary);
+  font-family: var(--font-sans);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.animate-fade-up {
+  animation: fadeUp 0.6s ease-out forwards;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.animate-slide-in-right {
+  animation: slideInRight 0.5s ease-out forwards;
+}
+
+.animate-delay-100 { animation-delay: 100ms; }
+.animate-delay-200 { animation-delay: 200ms; }
+.animate-delay-300 { animation-delay: 300ms; }
+.animate-delay-400 { animation-delay: 400ms; }
+
+.hide-scrollbar::-webkit-scrollbar { display: none; }
+.hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+.img-zoom:hover img {
+  transform: scale(1.08);
+}
+
+.glass {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+::selection {
+  background-color: #d60d3a44;
+  color: inherit;
+}

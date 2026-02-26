@@ -1,0 +1,1891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VehicleFeed generated="2026-02-26T08:35:06" generator="TheDealersEdge/1.0" totalVehicles="46">
+  <Brand name="Suzuki" key="suzuki" vehicleCount="46">
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Baleno</Model>
+      <Variant>1.5 GL 5-dr</Variant>
+      <PriceIncl>267900</PriceIncl>
+      <PriceExcl>232957</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 990mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 500mm</HeightMM>
+        <WheelbaseMM>2 520</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>10.20</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/3f578d11-0d95-4f95-ba52-57dc1f5fd3e3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/200e549d-e7d6-44ee-abbb-f1287bba739e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/b741beda-6a99-49fa-9189-57742a79993e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/68aadd61-2c32-4c92-b8bc-a5aba234a2c8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1db45d0a-9dca-449c-b5ac-731adb593c6f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Baleno</Model>
+      <Variant>1.5 GL 5-dr AT</Variant>
+      <PriceIncl>289900</PriceIncl>
+      <PriceExcl>252087</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>4-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 990mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 500mm</HeightMM>
+        <WheelbaseMM>2 520</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>10.20</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/3f578d11-0d95-4f95-ba52-57dc1f5fd3e3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/200e549d-e7d6-44ee-abbb-f1287bba739e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/b741beda-6a99-49fa-9189-57742a79993e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/68aadd61-2c32-4c92-b8bc-a5aba234a2c8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1db45d0a-9dca-449c-b5ac-731adb593c6f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Baleno</Model>
+      <Variant>1.5 GLX 5-dr</Variant>
+      <PriceIncl>319900</PriceIncl>
+      <PriceExcl>278174</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 990mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 500mm</HeightMM>
+        <WheelbaseMM>2 520</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>10.20</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/3f578d11-0d95-4f95-ba52-57dc1f5fd3e3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/200e549d-e7d6-44ee-abbb-f1287bba739e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/b741beda-6a99-49fa-9189-57742a79993e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/68aadd61-2c32-4c92-b8bc-a5aba234a2c8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1db45d0a-9dca-449c-b5ac-731adb593c6f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Baleno</Model>
+      <Variant>1.5 GLX 5-dr AT</Variant>
+      <PriceIncl>339900</PriceIncl>
+      <PriceExcl>295565</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>4-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 990mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 500mm</HeightMM>
+        <WheelbaseMM>2 520</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>10.20</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/3f578d11-0d95-4f95-ba52-57dc1f5fd3e3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/200e549d-e7d6-44ee-abbb-f1287bba739e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/b741beda-6a99-49fa-9189-57742a79993e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/68aadd61-2c32-4c92-b8bc-a5aba234a2c8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1db45d0a-9dca-449c-b5ac-731adb593c6f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Celerio</Model>
+      <Variant>1.0 GA MT</Variant>
+      <PriceIncl>188900</PriceIncl>
+      <PriceExcl>164261</PriceExcl>
+      <Specifications>
+        <EngineCapacity>998</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 695mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 555mm</HeightMM>
+        <WheelbaseMM>2 435</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>32</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9.40</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>2yr/30 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4bbe3978-111b-4eb4-804a-80d8a0f7c8cc.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/e56d0226-ebef-4c47-a9f8-0029a5f68f4f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/e702a18d-d788-4e8b-ba82-ede6f52be915.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/3bfffc8b-1444-45c7-b2c7-41039eba8ae6.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/6f7f17ec-7d0e-438d-a276-603996cab707.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Celerio</Model>
+      <Variant>1.0 GL AMT</Variant>
+      <PriceIncl>225900</PriceIncl>
+      <PriceExcl>196435</PriceExcl>
+      <Specifications>
+        <EngineCapacity>998</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 695mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 555mm</HeightMM>
+        <WheelbaseMM>2 435</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>32</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9.40</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>2yr/30 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4bbe3978-111b-4eb4-804a-80d8a0f7c8cc.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/e56d0226-ebef-4c47-a9f8-0029a5f68f4f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/e702a18d-d788-4e8b-ba82-ede6f52be915.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/3bfffc8b-1444-45c7-b2c7-41039eba8ae6.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/6f7f17ec-7d0e-438d-a276-603996cab707.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Celerio</Model>
+      <Variant>1.0 GL MT</Variant>
+      <PriceIncl>210900</PriceIncl>
+      <PriceExcl>183391</PriceExcl>
+      <Specifications>
+        <EngineCapacity>998</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 695mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 555mm</HeightMM>
+        <WheelbaseMM>2 435</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>32</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9.40</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>2yr/30 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4bbe3978-111b-4eb4-804a-80d8a0f7c8cc.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/e56d0226-ebef-4c47-a9f8-0029a5f68f4f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/e702a18d-d788-4e8b-ba82-ede6f52be915.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/3bfffc8b-1444-45c7-b2c7-41039eba8ae6.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/6f7f17ec-7d0e-438d-a276-603996cab707.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Dzire</Model>
+      <Variant>1.2 GA 5M/T</Variant>
+      <PriceIncl>229900</PriceIncl>
+      <PriceExcl>199913</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 197</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 995mm</LengthMM>
+        <WidthMM>1 735</WidthMM>
+        <HeightMM>1 525mm</HeightMM>
+        <WheelbaseMM />
+        <BootCapacityL>378 Litre</BootCapacityL>
+        <KerbWeightKG />
+        <FuelTankL />
+        <GroundClearanceMM />
+        <TurningCircleM />
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/2db6b0d9-fa53-43c5-85c3-8449d92f334e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1d1d1e0c-d126-4e94-a038-7f9dc99354e8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1d781a04-3995-4ef3-99f7-6adb4b50640a.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/2b2ae94f-b22f-426f-9a46-9cf2657183f4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/527f21f1-cb23-4521-af38-718af3d89868.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Dzire</Model>
+      <Variant>1.2 GL+ 5M/T</Variant>
+      <PriceIncl>252900</PriceIncl>
+      <PriceExcl>219913</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 197</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 995mm</LengthMM>
+        <WidthMM>1 735</WidthMM>
+        <HeightMM>1 525mm</HeightMM>
+        <WheelbaseMM />
+        <BootCapacityL>378 Litre</BootCapacityL>
+        <KerbWeightKG />
+        <FuelTankL />
+        <GroundClearanceMM />
+        <TurningCircleM />
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/2db6b0d9-fa53-43c5-85c3-8449d92f334e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1d1d1e0c-d126-4e94-a038-7f9dc99354e8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1d781a04-3995-4ef3-99f7-6adb4b50640a.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/2b2ae94f-b22f-426f-9a46-9cf2657183f4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/527f21f1-cb23-4521-af38-718af3d89868.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Dzire</Model>
+      <Variant>1.2 GL+ CVT</Variant>
+      <PriceIncl>272900</PriceIncl>
+      <PriceExcl>237304</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 197</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 995mm</LengthMM>
+        <WidthMM>1 735</WidthMM>
+        <HeightMM>1 525mm</HeightMM>
+        <WheelbaseMM />
+        <BootCapacityL>378 Litre</BootCapacityL>
+        <KerbWeightKG />
+        <FuelTankL />
+        <GroundClearanceMM />
+        <TurningCircleM />
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/2db6b0d9-fa53-43c5-85c3-8449d92f334e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1d1d1e0c-d126-4e94-a038-7f9dc99354e8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1d781a04-3995-4ef3-99f7-6adb4b50640a.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/2b2ae94f-b22f-426f-9a46-9cf2657183f4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/527f21f1-cb23-4521-af38-718af3d89868.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Eeco</Model>
+      <Variant>1.2 P-Van</Variant>
+      <PriceIncl>230900</PriceIncl>
+      <PriceExcl>200783</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 197</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>RWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 675mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 825mm</HeightMM>
+        <WheelbaseMM>2 350</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>32</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>100 000km</Warranty>
+        <ServicePlan />
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/63ac044b-653d-4d0c-aa4b-528b6c881432.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4805dfb8-2361-4734-a169-943362a0e4c8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/29c101fc-d447-4ae2-bbdf-5e3b02a106be.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/45bbef7e-faeb-424e-a53a-464a1717c433.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7a9acb1a-995f-48c5-9d7f-f3f7962ebd50.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Ertiga</Model>
+      <Variant>1.5 GA MPV</Variant>
+      <PriceIncl>304900</PriceIncl>
+      <PriceExcl>265130</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>4 395mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 690mm</HeightMM>
+        <WheelbaseMM>2 740</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>45</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>10.40</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/b7c2b220-2fba-48aa-94a6-93ae21b3fe7b.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/97b337a6-e618-43dc-b56b-01bf0abbab1e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/6f3be0b1-e510-4c0c-8a3d-f1455e357e32.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/722944fb-a745-40d9-9a93-ab64cc89cd58.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a0a8a9a8-301b-4dcc-8011-1f3dcc812690.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Ertiga</Model>
+      <Variant>1.5 GL MPV</Variant>
+      <PriceIncl>344900</PriceIncl>
+      <PriceExcl>299913</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>4 395mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 690mm</HeightMM>
+        <WheelbaseMM>2 740</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>45</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>10.40</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/b7c2b220-2fba-48aa-94a6-93ae21b3fe7b.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/97b337a6-e618-43dc-b56b-01bf0abbab1e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/6f3be0b1-e510-4c0c-8a3d-f1455e357e32.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/722944fb-a745-40d9-9a93-ab64cc89cd58.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a0a8a9a8-301b-4dcc-8011-1f3dcc812690.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Ertiga</Model>
+      <Variant>1.5 GL MPV AT</Variant>
+      <PriceIncl>363900</PriceIncl>
+      <PriceExcl>316435</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>4-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>4 395mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 690mm</HeightMM>
+        <WheelbaseMM>2 740</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>45</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>10.40</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/b7c2b220-2fba-48aa-94a6-93ae21b3fe7b.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/97b337a6-e618-43dc-b56b-01bf0abbab1e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/6f3be0b1-e510-4c0c-8a3d-f1455e357e32.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/722944fb-a745-40d9-9a93-ab64cc89cd58.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a0a8a9a8-301b-4dcc-8011-1f3dcc812690.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Fronx</Model>
+      <Variant>1.5 GL</Variant>
+      <PriceIncl>299900</PriceIncl>
+      <PriceExcl>260783</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>Petrol</FuelType>
+        <Cylinders />
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 995mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 550mm</HeightMM>
+        <WheelbaseMM>2 520</WheelbaseMM>
+        <BootCapacityL>304 Litre</BootCapacityL>
+        <KerbWeightKG />
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM>170</GroundClearanceMM>
+        <TurningCircleM>9.60</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/5e0477cb-5f0d-49df-aa1b-b9775cf4fa78.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/b8cd01a6-196c-4236-a7eb-eb962a905ae7.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/5a445a09-a761-4ca7-ba33-26bf702cfaaa.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/c20bafff-0c32-480c-adab-88a4c147ca90.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/cd042c73-a273-4d96-8883-78e0431a926d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Fronx</Model>
+      <Variant>1.5 GL AT</Variant>
+      <PriceIncl>324900</PriceIncl>
+      <PriceExcl>282522</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>Petrol</FuelType>
+        <Cylinders />
+        <Transmission>4-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 995mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 550mm</HeightMM>
+        <WheelbaseMM>2 520</WheelbaseMM>
+        <BootCapacityL>304 Litre</BootCapacityL>
+        <KerbWeightKG />
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM>170</GroundClearanceMM>
+        <TurningCircleM>9.60</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/5e0477cb-5f0d-49df-aa1b-b9775cf4fa78.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/b8cd01a6-196c-4236-a7eb-eb962a905ae7.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/5a445a09-a761-4ca7-ba33-26bf702cfaaa.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/c20bafff-0c32-480c-adab-88a4c147ca90.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/cd042c73-a273-4d96-8883-78e0431a926d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Fronx</Model>
+      <Variant>1.5 GLX</Variant>
+      <PriceIncl>348900</PriceIncl>
+      <PriceExcl>303391</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>Petrol</FuelType>
+        <Cylinders />
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 995mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 550mm</HeightMM>
+        <WheelbaseMM>2 520</WheelbaseMM>
+        <BootCapacityL>304 Litre</BootCapacityL>
+        <KerbWeightKG />
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM>170</GroundClearanceMM>
+        <TurningCircleM>9.60</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/5e0477cb-5f0d-49df-aa1b-b9775cf4fa78.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/b8cd01a6-196c-4236-a7eb-eb962a905ae7.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/5a445a09-a761-4ca7-ba33-26bf702cfaaa.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/c20bafff-0c32-480c-adab-88a4c147ca90.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/cd042c73-a273-4d96-8883-78e0431a926d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Fronx</Model>
+      <Variant>1.5 GLX AT</Variant>
+      <PriceIncl>368900</PriceIncl>
+      <PriceExcl>320783</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>Petrol</FuelType>
+        <Cylinders />
+        <Transmission>4-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 995mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 550mm</HeightMM>
+        <WheelbaseMM>2 520</WheelbaseMM>
+        <BootCapacityL>304 Litre</BootCapacityL>
+        <KerbWeightKG />
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM>170</GroundClearanceMM>
+        <TurningCircleM>9.60</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/5e0477cb-5f0d-49df-aa1b-b9775cf4fa78.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/b8cd01a6-196c-4236-a7eb-eb962a905ae7.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/5a445a09-a761-4ca7-ba33-26bf702cfaaa.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/c20bafff-0c32-480c-adab-88a4c147ca90.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/cd042c73-a273-4d96-8883-78e0431a926d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Grand Vitara</Model>
+      <Variant>1.5 GL</Variant>
+      <PriceIncl>359900</PriceIncl>
+      <PriceExcl>312957</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1462</EngineCapacity>
+        <PowerKW>77</PowerKW>
+        <TorqueNM>138</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH>165</TopSpeedKMH>
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>6.0</FuelConsumptionL100KM>
+        <CO2EmissionsGKM>142</CO2EmissionsGKM>
+        <LengthMM>4345</LengthMM>
+        <WidthMM>1795</WidthMM>
+        <HeightMM>1645</HeightMM>
+        <WheelbaseMM>2600</WheelbaseMM>
+        <BootCapacityL>310</BootCapacityL>
+        <KerbWeightKG>1135</KerbWeightKG>
+        <FuelTankL>45</FuelTankL>
+        <GroundClearanceMM>210</GroundClearanceMM>
+        <TurningCircleM>5.4</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>5yr/200000km</Warranty>
+        <ServicePlan>4yr/60000km</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4882219a-1e9d-462d-a58d-aaaefe7d734a.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/cb0f0258-5d57-43bb-88f9-c66736595042.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a1fd5e81-9c11-47a0-82a1-ec9ea332e3bc.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/6b17fe53-8527-4fc3-acb4-2420ad4004f1.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/40f0e736-84b3-4631-9ad9-f08082a2ace3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Grand Vitara</Model>
+      <Variant>1.5 GL AT</Variant>
+      <PriceIncl>381900</PriceIncl>
+      <PriceExcl>332087</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1462</EngineCapacity>
+        <PowerKW>77</PowerKW>
+        <TorqueNM>138</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>4-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH>170</TopSpeedKMH>
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>6.0</FuelConsumptionL100KM>
+        <CO2EmissionsGKM>142</CO2EmissionsGKM>
+        <LengthMM>4345</LengthMM>
+        <WidthMM>1795</WidthMM>
+        <HeightMM>1645</HeightMM>
+        <WheelbaseMM>2600</WheelbaseMM>
+        <BootCapacityL>310</BootCapacityL>
+        <KerbWeightKG>1145</KerbWeightKG>
+        <FuelTankL>45</FuelTankL>
+        <GroundClearanceMM>210</GroundClearanceMM>
+        <TurningCircleM>5.4</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>5yr/200000km</Warranty>
+        <ServicePlan>4yr/60000km</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4882219a-1e9d-462d-a58d-aaaefe7d734a.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/cb0f0258-5d57-43bb-88f9-c66736595042.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a1fd5e81-9c11-47a0-82a1-ec9ea332e3bc.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/6b17fe53-8527-4fc3-acb4-2420ad4004f1.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/40f0e736-84b3-4631-9ad9-f08082a2ace3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Grand Vitara</Model>
+      <Variant>1.5 GLX AT</Variant>
+      <PriceIncl>453900</PriceIncl>
+      <PriceExcl>394696</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1462</EngineCapacity>
+        <PowerKW>77</PowerKW>
+        <TorqueNM>138</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>4-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH>170</TopSpeedKMH>
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>6.0</FuelConsumptionL100KM>
+        <CO2EmissionsGKM>142</CO2EmissionsGKM>
+        <LengthMM>4345</LengthMM>
+        <WidthMM>1795</WidthMM>
+        <HeightMM>1645</HeightMM>
+        <WheelbaseMM>2600</WheelbaseMM>
+        <BootCapacityL>310</BootCapacityL>
+        <KerbWeightKG>1145</KerbWeightKG>
+        <FuelTankL>45</FuelTankL>
+        <GroundClearanceMM>210</GroundClearanceMM>
+        <TurningCircleM>5.4</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>5yr/200000km</Warranty>
+        <ServicePlan>4yr/60000km</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4882219a-1e9d-462d-a58d-aaaefe7d734a.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/cb0f0258-5d57-43bb-88f9-c66736595042.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a1fd5e81-9c11-47a0-82a1-ec9ea332e3bc.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/6b17fe53-8527-4fc3-acb4-2420ad4004f1.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/40f0e736-84b3-4631-9ad9-f08082a2ace3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Ignis</Model>
+      <Variant>1.2 61kW GL ESP</Variant>
+      <PriceIncl>237900</PriceIncl>
+      <PriceExcl>206870</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 197</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 700mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 595mm</HeightMM>
+        <WheelbaseMM>2 435</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>32</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9.40</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>2yr/30 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a994d53e-842c-4d95-be2d-30146ff05ac4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1e8b738d-4b29-46bd-ba66-f761ad7c1b77.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/642125dc-7723-4887-8243-8f8a88e95352.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4512b8ca-0d35-4b15-a666-6ba569697735.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/9489eb94-f5bf-44e9-86b4-ba74f986241d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Ignis</Model>
+      <Variant>1.2 61kW GLX ESP</Variant>
+      <PriceIncl>276900</PriceIncl>
+      <PriceExcl>240783</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 197</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 700mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 595mm</HeightMM>
+        <WheelbaseMM>2 435</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>32</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9.40</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>2yr/30 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a994d53e-842c-4d95-be2d-30146ff05ac4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1e8b738d-4b29-46bd-ba66-f761ad7c1b77.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/642125dc-7723-4887-8243-8f8a88e95352.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4512b8ca-0d35-4b15-a666-6ba569697735.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/9489eb94-f5bf-44e9-86b4-ba74f986241d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Ignis</Model>
+      <Variant>1.2 61kW GLX ESP AMT</Variant>
+      <PriceIncl>293900</PriceIncl>
+      <PriceExcl>255565</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 197</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 700mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 595mm</HeightMM>
+        <WheelbaseMM>2 435</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>32</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9.40</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>2yr/30 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a994d53e-842c-4d95-be2d-30146ff05ac4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1e8b738d-4b29-46bd-ba66-f761ad7c1b77.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/642125dc-7723-4887-8243-8f8a88e95352.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4512b8ca-0d35-4b15-a666-6ba569697735.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/9489eb94-f5bf-44e9-86b4-ba74f986241d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Jimny</Model>
+      <Variant>1.5 GL 5-dr 4x4</Variant>
+      <PriceIncl>437900</PriceIncl>
+      <PriceExcl>380783</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>AWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 820mm</LengthMM>
+        <WidthMM>1 645</WidthMM>
+        <HeightMM>1 720mm</HeightMM>
+        <WheelbaseMM>2 590</WheelbaseMM>
+        <BootCapacityL>1 113 Litre</BootCapacityL>
+        <KerbWeightKG>1 185</KerbWeightKG>
+        <FuelTankL>40</FuelTankL>
+        <GroundClearanceMM>210</GroundClearanceMM>
+        <TurningCircleM>57</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/35502754-7330-4e34-b4f1-5213dc8db653.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/becc6916-4708-4098-8d51-10916ae58b81.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/86c954cf-e6e4-425a-be5c-4450cb38ba67.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4bceaec6-d40e-4b65-9c87-9eb042ba251c.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a4285623-bfee-4d67-befc-d1796331e511.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Jimny</Model>
+      <Variant>1.5 GLX 4x4</Variant>
+      <PriceIncl>436900</PriceIncl>
+      <PriceExcl>379913</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>AWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 625mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 670mm</HeightMM>
+        <WheelbaseMM>2 250</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>40</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9.80</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/35502754-7330-4e34-b4f1-5213dc8db653.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/becc6916-4708-4098-8d51-10916ae58b81.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/86c954cf-e6e4-425a-be5c-4450cb38ba67.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4bceaec6-d40e-4b65-9c87-9eb042ba251c.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a4285623-bfee-4d67-befc-d1796331e511.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Jimny</Model>
+      <Variant>1.5 GLX 4x4 AT</Variant>
+      <PriceIncl>458900</PriceIncl>
+      <PriceExcl>399043</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>4-speed automatic</Transmission>
+        <Drivetrain>AWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 625mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 670mm</HeightMM>
+        <WheelbaseMM>2 250</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>40</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9.80</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/35502754-7330-4e34-b4f1-5213dc8db653.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/becc6916-4708-4098-8d51-10916ae58b81.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/86c954cf-e6e4-425a-be5c-4450cb38ba67.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4bceaec6-d40e-4b65-9c87-9eb042ba251c.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a4285623-bfee-4d67-befc-d1796331e511.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Jimny</Model>
+      <Variant>1.5 GLX 5-dr 4x4</Variant>
+      <PriceIncl>465900</PriceIncl>
+      <PriceExcl>405130</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>AWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 820mm</LengthMM>
+        <WidthMM>1 645</WidthMM>
+        <HeightMM>1 720mm</HeightMM>
+        <WheelbaseMM>2 590</WheelbaseMM>
+        <BootCapacityL>1 113 Litre</BootCapacityL>
+        <KerbWeightKG>1 200</KerbWeightKG>
+        <FuelTankL>40</FuelTankL>
+        <GroundClearanceMM>210</GroundClearanceMM>
+        <TurningCircleM>57</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/35502754-7330-4e34-b4f1-5213dc8db653.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/becc6916-4708-4098-8d51-10916ae58b81.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/86c954cf-e6e4-425a-be5c-4450cb38ba67.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4bceaec6-d40e-4b65-9c87-9eb042ba251c.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a4285623-bfee-4d67-befc-d1796331e511.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Jimny</Model>
+      <Variant>1.5 GLX 5-dr 4x4 AT</Variant>
+      <PriceIncl>487900</PriceIncl>
+      <PriceExcl>424261</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>4-speed auto</Transmission>
+        <Drivetrain>AWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 820mm</LengthMM>
+        <WidthMM>1 645</WidthMM>
+        <HeightMM>1 720mm</HeightMM>
+        <WheelbaseMM>2 590</WheelbaseMM>
+        <BootCapacityL>1 113 Litre</BootCapacityL>
+        <KerbWeightKG>1 200</KerbWeightKG>
+        <FuelTankL>40</FuelTankL>
+        <GroundClearanceMM>210</GroundClearanceMM>
+        <TurningCircleM>57</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/35502754-7330-4e34-b4f1-5213dc8db653.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/becc6916-4708-4098-8d51-10916ae58b81.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/86c954cf-e6e4-425a-be5c-4450cb38ba67.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4bceaec6-d40e-4b65-9c87-9eb042ba251c.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/a4285623-bfee-4d67-befc-d1796331e511.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>S-Presso</Model>
+      <Variant>1.0 GL AMT</Variant>
+      <PriceIncl>192900</PriceIncl>
+      <PriceExcl>167739</PriceExcl>
+      <Specifications>
+        <EngineCapacity>998</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 565mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 567mm</HeightMM>
+        <WheelbaseMM>2 380</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>27</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>2yr/30 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/57966270-71c7-4f5a-9324-6c89ce8a038f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1e9025c6-d92b-45cf-8611-deb690c39def.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7f588632-a111-48cd-a15e-7970d4eedba2.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/95a47794-0d26-4c53-a212-416c6fce8db4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/aac395e4-c6f5-485d-81ec-a6cab210a3e3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>S-Presso</Model>
+      <Variant>1.0 GL MT</Variant>
+      <PriceIncl>178900</PriceIncl>
+      <PriceExcl>155565</PriceExcl>
+      <Specifications>
+        <EngineCapacity>998</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 565mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 567mm</HeightMM>
+        <WheelbaseMM>2 380</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>27</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>2yr/30 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/57966270-71c7-4f5a-9324-6c89ce8a038f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1e9025c6-d92b-45cf-8611-deb690c39def.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7f588632-a111-48cd-a15e-7970d4eedba2.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/95a47794-0d26-4c53-a212-416c6fce8db4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/aac395e4-c6f5-485d-81ec-a6cab210a3e3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>S-Presso</Model>
+      <Variant>1.0 GL+ AMT</Variant>
+      <PriceIncl>203900</PriceIncl>
+      <PriceExcl>177304</PriceExcl>
+      <Specifications>
+        <EngineCapacity>998</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 565mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 567mm</HeightMM>
+        <WheelbaseMM>2 380</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>27</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>2yr/30 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/57966270-71c7-4f5a-9324-6c89ce8a038f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1e9025c6-d92b-45cf-8611-deb690c39def.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7f588632-a111-48cd-a15e-7970d4eedba2.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/95a47794-0d26-4c53-a212-416c6fce8db4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/aac395e4-c6f5-485d-81ec-a6cab210a3e3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>S-Presso</Model>
+      <Variant>1.0 GL+ MT</Variant>
+      <PriceIncl>189900</PriceIncl>
+      <PriceExcl>165130</PriceExcl>
+      <Specifications>
+        <EngineCapacity>998</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 565mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 567mm</HeightMM>
+        <WheelbaseMM>2 380</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>27</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>2yr/30 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/57966270-71c7-4f5a-9324-6c89ce8a038f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1e9025c6-d92b-45cf-8611-deb690c39def.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7f588632-a111-48cd-a15e-7970d4eedba2.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/95a47794-0d26-4c53-a212-416c6fce8db4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/aac395e4-c6f5-485d-81ec-a6cab210a3e3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>S-Presso</Model>
+      <Variant>1.0 GL+ MT S-Edition</Variant>
+      <PriceIncl>205900</PriceIncl>
+      <PriceExcl>179043</PriceExcl>
+      <Specifications>
+        <EngineCapacity>998</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>3 565mm</LengthMM>
+        <WidthMM />
+        <HeightMM>1 567mm</HeightMM>
+        <WheelbaseMM>2 380</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG />
+        <FuelTankL>27</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM>9</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>2yr/30 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/57966270-71c7-4f5a-9324-6c89ce8a038f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1e9025c6-d92b-45cf-8611-deb690c39def.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7f588632-a111-48cd-a15e-7970d4eedba2.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/95a47794-0d26-4c53-a212-416c6fce8db4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/aac395e4-c6f5-485d-81ec-a6cab210a3e3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>S-Presso</Model>
+      <Variant>1.0 GL+ AMT S-Edition</Variant>
+      <PriceIncl>219900</PriceIncl>
+      <PriceExcl>191217</PriceExcl>
+      <Specifications>
+        <EngineCapacity>998</EngineCapacity>
+        <PowerKW>49</PowerKW>
+        <TorqueNM>89</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed AMT</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>4.4</FuelConsumptionL100KM>
+        <CO2EmissionsGKM>118</CO2EmissionsGKM>
+        <LengthMM>3565</LengthMM>
+        <WidthMM>1520</WidthMM>
+        <HeightMM>1565</HeightMM>
+        <WheelbaseMM>2380</WheelbaseMM>
+        <BootCapacityL>239</BootCapacityL>
+        <KerbWeightKG>770</KerbWeightKG>
+        <FuelTankL>27</FuelTankL>
+        <GroundClearanceMM>181</GroundClearanceMM>
+        <TurningCircleM>4.5</TurningCircleM>
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>5yr/200000km</Warranty>
+        <ServicePlan>2yr/30000km</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/57966270-71c7-4f5a-9324-6c89ce8a038f.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/1e9025c6-d92b-45cf-8611-deb690c39def.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7f588632-a111-48cd-a15e-7970d4eedba2.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/95a47794-0d26-4c53-a212-416c6fce8db4.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/aac395e4-c6f5-485d-81ec-a6cab210a3e3.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Super Carry</Model>
+      <Variant>1.2 PU</Variant>
+      <PriceIncl>196900</PriceIncl>
+      <PriceExcl>171217</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1197</EngineCapacity>
+        <PowerKW>59</PowerKW>
+        <TorqueNM>104</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>RWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>5.9</FuelConsumptionL100KM>
+        <CO2EmissionsGKM />
+        <LengthMM>3800</LengthMM>
+        <WidthMM>1562</WidthMM>
+        <HeightMM>1883</HeightMM>
+        <WheelbaseMM>2110</WheelbaseMM>
+        <BootCapacityL />
+        <KerbWeightKG>850</KerbWeightKG>
+        <FuelTankL>30</FuelTankL>
+        <GroundClearanceMM>175</GroundClearanceMM>
+        <TurningCircleM>4.3</TurningCircleM>
+        <Airbags>0</Airbags>
+        <ABS>n/a</ABS>
+        <StabilityControl>n/a</StabilityControl>
+        <Warranty>3yr/100000km</Warranty>
+        <ServicePlan />
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/f87f312a-b801-42f0-8f59-3fb4ff848653.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/80c2b137-870e-450e-8951-31cf2e8ba682.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/0f65bb69-20ab-4f60-aec0-f49418ad0052.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/bcf34e24-83e6-4b3e-b326-aad722624d7a.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/db3d7175-c14c-40ad-bffb-23baad938495.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Swift</Model>
+      <Variant>1.2 GL MT</Variant>
+      <PriceIncl>227900</PriceIncl>
+      <PriceExcl>198174</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1197</EngineCapacity>
+        <PowerKW>60</PowerKW>
+        <TorqueNM>112</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH>170</TopSpeedKMH>
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>4.4</FuelConsumptionL100KM>
+        <CO2EmissionsGKM>102</CO2EmissionsGKM>
+        <LengthMM>3860</LengthMM>
+        <WidthMM>1735</WidthMM>
+        <HeightMM>1520</HeightMM>
+        <WheelbaseMM>2450</WheelbaseMM>
+        <BootCapacityL>265</BootCapacityL>
+        <KerbWeightKG>908</KerbWeightKG>
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM>145</GroundClearanceMM>
+        <TurningCircleM>4.8</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>5yr/200000km</Warranty>
+        <ServicePlan>4yr/60000km</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7d01a2fa-a985-4354-8158-5876272ac9fb.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/17b92245-906f-4272-be58-75314c2bf8cf.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/afc910b2-b630-442a-ac1b-cada950aeaa8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/29676635-66dd-4f59-ab87-883e60eefcf7.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/23492f72-5568-41fa-a6be-52f22f3bbf0e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Swift</Model>
+      <Variant>1.2 GL+ MT</Variant>
+      <PriceIncl>249900</PriceIncl>
+      <PriceExcl>217304</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1197</EngineCapacity>
+        <PowerKW>60</PowerKW>
+        <TorqueNM>112</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH>170</TopSpeedKMH>
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>4.4</FuelConsumptionL100KM>
+        <CO2EmissionsGKM>102</CO2EmissionsGKM>
+        <LengthMM>3860</LengthMM>
+        <WidthMM>1735</WidthMM>
+        <HeightMM>1520</HeightMM>
+        <WheelbaseMM>2450</WheelbaseMM>
+        <BootCapacityL>265</BootCapacityL>
+        <KerbWeightKG>908</KerbWeightKG>
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM>145</GroundClearanceMM>
+        <TurningCircleM>4.8</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>5yr/200000km</Warranty>
+        <ServicePlan>4yr/60000km</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7d01a2fa-a985-4354-8158-5876272ac9fb.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/17b92245-906f-4272-be58-75314c2bf8cf.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/afc910b2-b630-442a-ac1b-cada950aeaa8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/29676635-66dd-4f59-ab87-883e60eefcf7.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/23492f72-5568-41fa-a6be-52f22f3bbf0e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Swift</Model>
+      <Variant>1.2 GL+ CVT</Variant>
+      <PriceIncl>269900</PriceIncl>
+      <PriceExcl>234696</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1197</EngineCapacity>
+        <PowerKW>60</PowerKW>
+        <TorqueNM>112</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>CVT</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH>165</TopSpeedKMH>
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>4.6</FuelConsumptionL100KM>
+        <CO2EmissionsGKM>107</CO2EmissionsGKM>
+        <LengthMM>3860</LengthMM>
+        <WidthMM>1735</WidthMM>
+        <HeightMM>1520</HeightMM>
+        <WheelbaseMM>2450</WheelbaseMM>
+        <BootCapacityL>265</BootCapacityL>
+        <KerbWeightKG>932</KerbWeightKG>
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM>145</GroundClearanceMM>
+        <TurningCircleM>4.8</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>5yr/200000km</Warranty>
+        <ServicePlan>4yr/60000km</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7d01a2fa-a985-4354-8158-5876272ac9fb.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/17b92245-906f-4272-be58-75314c2bf8cf.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/afc910b2-b630-442a-ac1b-cada950aeaa8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/29676635-66dd-4f59-ab87-883e60eefcf7.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/23492f72-5568-41fa-a6be-52f22f3bbf0e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Swift</Model>
+      <Variant>1.2 GLX MT</Variant>
+      <PriceIncl>275900</PriceIncl>
+      <PriceExcl>239913</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1197</EngineCapacity>
+        <PowerKW>60</PowerKW>
+        <TorqueNM>112</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH>170</TopSpeedKMH>
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>4.4</FuelConsumptionL100KM>
+        <CO2EmissionsGKM>102</CO2EmissionsGKM>
+        <LengthMM>3860</LengthMM>
+        <WidthMM>1735</WidthMM>
+        <HeightMM>1520</HeightMM>
+        <WheelbaseMM>2450</WheelbaseMM>
+        <BootCapacityL>265</BootCapacityL>
+        <KerbWeightKG>908</KerbWeightKG>
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM>145</GroundClearanceMM>
+        <TurningCircleM>4.8</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>5yr/200000km</Warranty>
+        <ServicePlan>4yr/60000km</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7d01a2fa-a985-4354-8158-5876272ac9fb.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/17b92245-906f-4272-be58-75314c2bf8cf.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/afc910b2-b630-442a-ac1b-cada950aeaa8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/29676635-66dd-4f59-ab87-883e60eefcf7.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/23492f72-5568-41fa-a6be-52f22f3bbf0e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Swift</Model>
+      <Variant>1.2 GLX CVT</Variant>
+      <PriceIncl>295900</PriceIncl>
+      <PriceExcl>257304</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1197</EngineCapacity>
+        <PowerKW>60</PowerKW>
+        <TorqueNM>112</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>3</Cylinders>
+        <Transmission>CVT</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH>165</TopSpeedKMH>
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>4.6</FuelConsumptionL100KM>
+        <CO2EmissionsGKM>107</CO2EmissionsGKM>
+        <LengthMM>3860</LengthMM>
+        <WidthMM>1735</WidthMM>
+        <HeightMM>1520</HeightMM>
+        <WheelbaseMM>2450</WheelbaseMM>
+        <BootCapacityL>265</BootCapacityL>
+        <KerbWeightKG>932</KerbWeightKG>
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM>145</GroundClearanceMM>
+        <TurningCircleM>4.8</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>5yr/200000km</Warranty>
+        <ServicePlan>4yr/60000km</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/7d01a2fa-a985-4354-8158-5876272ac9fb.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/17b92245-906f-4272-be58-75314c2bf8cf.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/afc910b2-b630-442a-ac1b-cada950aeaa8.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/29676635-66dd-4f59-ab87-883e60eefcf7.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/23492f72-5568-41fa-a6be-52f22f3bbf0e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Swift Sport</Model>
+      <Variant>1.4 Turbo MT</Variant>
+      <PriceIncl>469900</PriceIncl>
+      <PriceExcl>408609</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1373</EngineCapacity>
+        <PowerKW>103</PowerKW>
+        <TorqueNM>230</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>6-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH>205</TopSpeedKMH>
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>6.1</FuelConsumptionL100KM>
+        <CO2EmissionsGKM>141</CO2EmissionsGKM>
+        <LengthMM>3890</LengthMM>
+        <WidthMM>1735</WidthMM>
+        <HeightMM>1495</HeightMM>
+        <WheelbaseMM>2450</WheelbaseMM>
+        <BootCapacityL>242</BootCapacityL>
+        <KerbWeightKG>970</KerbWeightKG>
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM>120</GroundClearanceMM>
+        <TurningCircleM>5.1</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>5yr/200000km</Warranty>
+        <ServicePlan>4yr/60000km</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/d4752d81-d3fa-42e7-a3f9-b72ea6506a4c.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/32edd18d-d37b-436a-b2d6-9533d5f4472d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4d214470-60f2-45f4-a057-0dc7788809ff.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4281a2c7-524c-4646-a2f2-a771eb81f683.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/edb2e911-5a9e-4a9a-91ae-9222d5c9f0df.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>Swift Sport</Model>
+      <Variant>1.4 Turbo AT</Variant>
+      <PriceIncl>493900</PriceIncl>
+      <PriceExcl>429478</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1373</EngineCapacity>
+        <PowerKW>103</PowerKW>
+        <TorqueNM>230</TorqueNM>
+        <FuelType>petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>6-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH>205</TopSpeedKMH>
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM>6.1</FuelConsumptionL100KM>
+        <CO2EmissionsGKM>141</CO2EmissionsGKM>
+        <LengthMM>3890</LengthMM>
+        <WidthMM>1735</WidthMM>
+        <HeightMM>1495</HeightMM>
+        <WheelbaseMM>2450</WheelbaseMM>
+        <BootCapacityL>242</BootCapacityL>
+        <KerbWeightKG>995</KerbWeightKG>
+        <FuelTankL>37</FuelTankL>
+        <GroundClearanceMM>120</GroundClearanceMM>
+        <TurningCircleM>5.1</TurningCircleM>
+        <Airbags>6</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>5yr/200000km</Warranty>
+        <ServicePlan>4yr/60000km</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/d4752d81-d3fa-42e7-a3f9-b72ea6506a4c.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/32edd18d-d37b-436a-b2d6-9533d5f4472d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4d214470-60f2-45f4-a057-0dc7788809ff.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/4281a2c7-524c-4646-a2f2-a771eb81f683.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/edb2e911-5a9e-4a9a-91ae-9222d5c9f0df.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>XL6</Model>
+      <Variant>GL</Variant>
+      <PriceIncl>359900</PriceIncl>
+      <PriceExcl>312957</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>Petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>5-speed manual</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>4 445mm</LengthMM>
+        <WidthMM>1 775</WidthMM>
+        <HeightMM>1 720mm</HeightMM>
+        <WheelbaseMM>2 740</WheelbaseMM>
+        <BootCapacityL>209-550-692 Litre</BootCapacityL>
+        <KerbWeightKG />
+        <FuelTankL>45</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM />
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/90e85590-6ab3-40c2-8286-a60de01a34b2.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/2cb416f9-24dd-4c44-83e7-cb85e13f2f7d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/da01c6a8-c3d1-4e9b-9eb1-01d8dde08f1c.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/157e80f7-0d90-4a88-9843-8efea04cb228.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/c33ab428-3d83-41be-9b4f-74a2239ce26e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>XL6</Model>
+      <Variant>GL AT</Variant>
+      <PriceIncl>379900</PriceIncl>
+      <PriceExcl>330348</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>Petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>4-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>4 445mm</LengthMM>
+        <WidthMM>1 775</WidthMM>
+        <HeightMM>1 720mm</HeightMM>
+        <WheelbaseMM>2 740</WheelbaseMM>
+        <BootCapacityL>209-550-692 Litre</BootCapacityL>
+        <KerbWeightKG />
+        <FuelTankL>45</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM />
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/90e85590-6ab3-40c2-8286-a60de01a34b2.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/2cb416f9-24dd-4c44-83e7-cb85e13f2f7d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/da01c6a8-c3d1-4e9b-9eb1-01d8dde08f1c.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/157e80f7-0d90-4a88-9843-8efea04cb228.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/c33ab428-3d83-41be-9b4f-74a2239ce26e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+    <Vehicle>
+      <Brand>Suzuki</Brand>
+      <Model>XL6</Model>
+      <Variant>GLX AT</Variant>
+      <PriceIncl>400350</PriceIncl>
+      <PriceExcl>348130</PriceExcl>
+      <Specifications>
+        <EngineCapacity>1 462</EngineCapacity>
+        <PowerKW />
+        <TorqueNM />
+        <FuelType>Petrol</FuelType>
+        <Cylinders>4</Cylinders>
+        <Transmission>4-speed automatic</Transmission>
+        <Drivetrain>FWD</Drivetrain>
+        <TopSpeedKMH />
+        <Acceleration0to100 />
+        <FuelConsumptionL100KM />
+        <CO2EmissionsGKM />
+        <LengthMM>4 445mm</LengthMM>
+        <WidthMM>1 775</WidthMM>
+        <HeightMM>1 720mm</HeightMM>
+        <WheelbaseMM>2 740</WheelbaseMM>
+        <BootCapacityL>209-550-692 Litre</BootCapacityL>
+        <KerbWeightKG />
+        <FuelTankL>45</FuelTankL>
+        <GroundClearanceMM />
+        <TurningCircleM />
+        <Airbags>2</Airbags>
+        <ABS>std</ABS>
+        <StabilityControl>std</StabilityControl>
+        <Warranty>200 000km</Warranty>
+        <ServicePlan>4yr/60 000 Kmkm</ServicePlan>
+      </Specifications>
+      <Images>
+        <Image type="Jellybean">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/90e85590-6ab3-40c2-8286-a60de01a34b2.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorFront">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/2cb416f9-24dd-4c44-83e7-cb85e13f2f7d.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="ExteriorRear">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/da01c6a8-c3d1-4e9b-9eb1-01d8dde08f1c.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Interior">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/157e80f7-0d90-4a88-9843-8efea04cb228.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+        <Image type="Lifestyle">https://cdn.thedealersedge.co.za/api/v2/assets/suzuki/c33ab428-3d83-41be-9b4f-74a2239ce26e.jpg?key=pub_4f8a2c&amp;w=1200&amp;q=85</Image>
+      </Images>
+    </Vehicle>
+  </Brand>
+</VehicleFeed>
