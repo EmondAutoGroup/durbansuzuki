@@ -3,6 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { getNewCarModels } from '@/lib/new-car-feed';
 import { formatPrice } from '@/lib/utils';
+import { MODEL_CARD_IMAGES } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: 'New Suzuki Cars',
@@ -30,19 +31,21 @@ export default async function NewCarsPage() {
       {/* Model Grid */}
       <section className="max-w-7xl mx-auto px-6 py-12">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {models.map((model) => (
+          {models.map((model) => {
+            const cardImage = MODEL_CARD_IMAGES[model.name] || model.jellybeanImage;
+            return (
             <Link
               key={model.slug}
               href={`/new/${model.slug}`}
               className="group bg-card rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500 border border-gray-100 hover:border-suzuki-teal/30"
             >
-              <div className="relative aspect-[4/3] bg-white p-6">
-                {model.jellybeanImage ? (
+              <div className="relative aspect-[16/10] bg-white overflow-hidden p-4">
+                {cardImage ? (
                   <Image
-                    src={model.jellybeanImage}
+                    src={cardImage}
                     alt={`Suzuki ${model.name}`}
                     fill
-                    className="object-contain p-4 group-hover:scale-105 transition-transform duration-500"
+                    className="object-contain p-2 group-hover:scale-105 transition-transform duration-500"
                     sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
                   />
                 ) : (
@@ -71,7 +74,8 @@ export default async function NewCarsPage() {
                 </div>
               </div>
             </Link>
-          ))}
+            );
+          })}
         </div>
       </section>
     </>

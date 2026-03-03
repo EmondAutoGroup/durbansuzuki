@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import Link from 'next/link';
 import { useState } from 'react';
 import { DEALER, NAV_LINKS } from '@/lib/constants';
@@ -32,11 +33,18 @@ export default function Header() {
       </div>
 
       {/* Main header */}
-      <header className="bg-suzuki-blue text-white sticky top-0 z-50 border-b border-white/10">
-        <div className="max-w-7xl mx-auto px-6 flex items-center justify-between h-16">
-          <Link href="/" className="flex items-center gap-2 font-extrabold text-xl tracking-tight">
-            <span className="text-suzuki-red">SUZUKI</span>
-            <span className="text-white/80 font-light">Durban</span>
+      <header className="bg-white sticky top-0 z-50 border-b border-gray-200 shadow-sm">
+        <div className="max-w-7xl mx-auto px-6 flex items-center justify-between h-16 md:h-[72px]">
+          <Link href="/" className="flex items-center gap-3">
+            <Image
+              src="/suzuki-logo.png"
+              alt="Suzuki Durban"
+              width={160}
+              height={56}
+              className="h-8 md:h-11 w-auto"
+              priority
+            />
+            <span className="hidden sm:block text-lg md:text-xl font-bold tracking-wide text-suzuki-blue">Durban</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-1">
@@ -44,22 +52,22 @@ export default function Header() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-sm font-medium text-white/80 hover:text-white px-4 py-2 rounded-lg hover:bg-white/10 transition-all"
+                className="text-sm font-medium text-gray-600 hover:text-suzuki-blue px-4 py-2 rounded-lg hover:bg-gray-100 transition-all"
               >
                 {link.label}
               </Link>
             ))}
-            <div className="w-px h-6 bg-white/10 mx-2" />
+            <div className="w-px h-6 bg-gray-200 mx-2" />
             <a
               href={DEALER.phoneLink}
-              className="text-sm font-semibold bg-suzuki-red hover:bg-suzuki-red-dark px-5 py-2.5 rounded-lg transition-all hover:shadow-lg hover:shadow-suzuki-red/20"
+              className="text-sm font-semibold text-white bg-suzuki-red hover:bg-suzuki-red-dark px-5 py-2.5 rounded-lg transition-all hover:shadow-lg hover:shadow-suzuki-red/20"
             >
               Call Now
             </a>
           </nav>
 
           <button
-            className="md:hidden p-2 hover:bg-white/10 rounded-lg transition-colors"
+            className="md:hidden p-2 hover:bg-gray-100 rounded-lg transition-colors text-gray-700"
             onClick={() => setMobileOpen(true)}
             aria-label="Open menu"
           >

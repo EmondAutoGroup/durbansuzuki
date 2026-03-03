@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Image from 'next/image';
 import { DEALER } from '@/lib/constants';
 import EnquiryForm from '@/components/vehicle-detail/EnquiryForm';
 
@@ -79,8 +80,19 @@ export default function ContactPage() {
               </div>
             </div>
 
-            {/* Map */}
+            {/* Dealership Photo */}
             <div className="mt-8 rounded-xl overflow-hidden border border-gray-200">
+              <Image
+                src="/dealership-aerial.png"
+                alt="Suzuki Durban (Emond Auto) dealership aerial view"
+                width={800}
+                height={450}
+                className="w-full h-auto object-cover"
+              />
+            </div>
+
+            {/* Map */}
+            <div className="mt-4 rounded-xl overflow-hidden border border-gray-200">
               <iframe
                 src={DEALER.mapsEmbed}
                 width="100%"

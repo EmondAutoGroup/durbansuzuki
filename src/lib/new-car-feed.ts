@@ -2,6 +2,7 @@ import { parseStringPromise } from 'xml2js';
 import { NewCarVariant, NewCarImage, NewCarSpecs, NewCarModel } from './types';
 import { slugify } from './utils';
 import { MODEL_ORDER } from './constants';
+import { SUZUKI_SA_IMAGES } from './suzuki-images';
 import fs from 'fs';
 import path from 'path';
 
@@ -122,8 +123,27 @@ export async function getNewCarModels(): Promise<NewCarModel[]> {
 
   for (const [name, modelVariants] of grouped) {
     const sorted = [...modelVariants].sort((a, b) => a.priceIncl - b.priceIncl);
-    const jellybean = sorted[0]?.images.find((i) => i.type === 'Jellybean')?.url || sorted[0]?.images[0]?.url || '';
-    const hero = sorted[0]?.images.find((i) => i.type === 'ExteriorFront')?.url || jellybean;
+
+    // Use curated Suzuki SA images instead of feed XML images
+    const saImages = SUZUKI_SA_IMAGES[name];
+    const jellybean = saImages?.colours[0] || sorted[0]?.images.find((i) => i.type === 'Jellybean')?.url || sorted[0]?.images[0]?.url || '';
+    const hero = saImages?.hero || jellybean;
+
+    // Override variant images with Suzuki SA colour gallery
+    if (saImages) {
+      const colourImages = saImages.colours.map((url, i) => ({
+        type: i === 0 ? 'Jellybean' : `Colour${i}`,
+        url,
+      }));
+      // Add hero as first image
+      const allImages = [
+        { type: 'Hero', url: saImages.hero },
+        ...colourImages,
+      ];
+      for (const variant of sorted) {
+        variant.images = allImages;
+      }
+    }
 
     models.push({
       name,

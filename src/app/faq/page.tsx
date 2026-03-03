@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Image from 'next/image';
 import Link from 'next/link';
 import { DEALER } from '@/lib/constants';
 import FAQAccordion from '@/components/faq/FAQAccordion';
@@ -93,6 +94,22 @@ export default function FAQPage() {
 
       <div className="max-w-3xl mx-auto px-6 py-12">
         <FAQAccordion items={FAQ_ITEMS} />
+
+        {/* Dealership Photo */}
+        <div className="mt-12 rounded-2xl overflow-hidden border border-gray-200">
+          <Image
+            src="/dealership-street.jpg"
+            alt="Suzuki Durban (Emond Auto) dealership on Moreland Drive"
+            width={800}
+            height={500}
+            className="w-full h-auto object-cover"
+          />
+          <div className="bg-gray-50 px-5 py-3 text-center">
+            <p className="text-sm text-text-muted">
+              Visit us at <strong className="text-text-primary">9 Moreland Drive, Redhill, Durban</strong>
+            </p>
+          </div>
+        </div>
 
         <div className="mt-12 bg-suzuki-blue/5 rounded-2xl p-8 text-center">
           <h2 className="text-xl font-bold text-text-primary mb-2">Still Have Questions?</h2>

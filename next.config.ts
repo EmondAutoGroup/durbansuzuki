@@ -13,6 +13,10 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'www.suzukiauto.co.za',
+      },
+      {
+        protocol: 'https',
         hostname: '**.easyquote-dcs.co.za',
       },
       {

@@ -25,12 +25,12 @@ export default function ImageGallery({ images }: ImageGalleryProps) {
 
   return (
     <div>
-      <div className="relative aspect-[16/10] rounded-xl overflow-hidden bg-gray-100">
+      <div className="relative aspect-[16/10] rounded-xl overflow-hidden bg-white border border-gray-100">
         <Image
           src={images[activeIndex].url}
           alt={images[activeIndex].alt}
           fill
-          className="object-cover"
+          className="object-contain p-4"
           sizes="(max-width: 1024px) 100vw, 60vw"
           priority
         />
@@ -67,15 +67,15 @@ export default function ImageGallery({ images }: ImageGalleryProps) {
             <button
               key={i}
               onClick={() => setActiveIndex(i)}
-              className={`relative w-20 h-14 rounded-lg overflow-hidden shrink-0 border-2 transition-colors ${
-                i === activeIndex ? 'border-suzuki-red' : 'border-transparent opacity-60 hover:opacity-100'
+              className={`relative w-20 h-14 rounded-lg overflow-hidden shrink-0 border-2 transition-colors bg-white ${
+                i === activeIndex ? 'border-suzuki-red' : 'border-gray-200 opacity-60 hover:opacity-100'
               }`}
             >
               <Image
                 src={img.url}
                 alt={`Thumbnail ${i + 1}`}
                 fill
-                className="object-cover"
+                className="object-contain p-1"
                 sizes="80px"
               />
             </button>
