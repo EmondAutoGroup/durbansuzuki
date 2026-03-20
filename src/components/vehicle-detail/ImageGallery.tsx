@@ -30,6 +30,7 @@ export default function ImageGallery({ images }: ImageGalleryProps) {
           src={images[activeIndex].url}
           alt={images[activeIndex].alt}
           fill
+          unoptimized
           className="object-contain p-4"
           sizes="(max-width: 1024px) 100vw, 60vw"
           priority
@@ -75,6 +76,7 @@ export default function ImageGallery({ images }: ImageGalleryProps) {
                 src={img.url}
                 alt={`Thumbnail ${i + 1}`}
                 fill
+                unoptimized
                 className="object-contain p-1"
                 sizes="80px"
               />

@@ -44,6 +44,7 @@ export default function UsedCarHighlights({ vehicles }: UsedCarHighlightsProps) 
                     src={v.images[0].fullImageUrl}
                     alt={v.fullTitle}
                     fill
+                    unoptimized
                     className="object-cover transition-transform duration-700"
                     sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                   />
