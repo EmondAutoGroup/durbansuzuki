@@ -79,3 +79,35 @@ html {
   background-color: #d60d3a44;
   color: inherit;
 }
+
+/* ── Seasonal overlay animations ── */
+@keyframes seasonal-fall {
+  0% {
+    transform: translateY(-10px) translateX(0);
+  }
+  100% {
+    transform: translateY(100vh) translateX(var(--fall-sway, 0px));
+  }
+}
+
+@keyframes seasonal-shimmer {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 200% 50%; }
+}
+
+@keyframes seasonal-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+.seasonal-fall {
+  animation: seasonal-fall linear infinite;
+}
+
+.seasonal-shimmer-bar {
+  animation: seasonal-shimmer 3s linear infinite;
+}
+
+.seasonal-flag-pulse {
+  animation: seasonal-pulse 4s ease-in-out infinite;
+}
